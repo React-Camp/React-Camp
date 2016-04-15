@@ -1,4 +1,4 @@
-/* Next Gen Camp */
+/* React Camp */
 
 body {
 	margin: 0;
@@ -13,6 +13,14 @@ p {
   font-weight: 200;
 	 font-size: 1.25em;
 }
+
+
+p a {
+	color: white;
+	border-bottom: 1px dotted white;
+	text-decoration: none;
+} 
+
 
 .body {
 	text-align: center;
