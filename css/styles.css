@@ -122,6 +122,13 @@ p.updates {
 	border-bottom: 1px dotted green;
 }
 
+h4,
+h4 a {
+	color: #000;
+  font: bold 1.25rem "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+
+}
+
 
 /* BLOCKS - Newsletter */
 
