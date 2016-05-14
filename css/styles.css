@@ -129,6 +129,15 @@ h4 a {
 
 }
 
+#register p,
+#register a {
+	color: gray;
+	font-size: .85rem;
+}
+
+#register a {
+	border-bottom: 1px dotted gray;	
+}
 
 /* BLOCKS - Newsletter */
 
